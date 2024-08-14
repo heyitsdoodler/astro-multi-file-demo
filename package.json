@@ -1,0 +1,16 @@
+{
+  "name": "astro-multi-asset",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^4.13.4",
+    "vite-multiple-assets": "^1.2.10"
+  }
+}
